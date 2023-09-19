@@ -5,10 +5,9 @@ I recently did my bachelor in computer science and im figuring out what ill do n
 as work for my degree.
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/filipe-azevedo-4b951b208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filipe-azevedo-4b951b208/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/filipe-azevedo-4b951b208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe-azevedo-4b951b208" height="30" width="40" /></a>
 <a href="https://instagram.com/filipe.azevd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filipe.azevd" height="30" width="40" /></a>
 </p>
 
