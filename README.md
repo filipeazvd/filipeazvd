@@ -13,7 +13,7 @@ as work for my degree.
 <a href="https://linkedin.com/in/ainda n sei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ainda n sei" height="30" width="40" /></a>
 </p>
 
-# Skills & Tools 💻
+# Skills & Tools 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" height="25"/>
@@ -24,6 +24,4 @@ as work for my degree.
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipeazvd&show_icons=true&locale=en&layout=compact" alt="filipeazvd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipeazvd&show_icons=true&locale=en" alt="filipeazvd" /></p>
