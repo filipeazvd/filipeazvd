@@ -1,8 +1,7 @@
 # Githud test
 ** Figuring out  **
 
-I recently did my bachelor in computer science and im figuring out what ill do next. I have a soft spot for aesthetics, databases and front end. Ive got a couple of projects here which i did by myself 
-as work for my degree.
+I recently did my bachelor in computer science and im figuring out what ill do next. data smth **flies away**
 
 ---
 <h3 align="left">Connect with me:</h3>
