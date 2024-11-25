@@ -1,7 +1,7 @@
 # Githud test
 ** Figuring out  **
 
-I recently did my bachelor in computer science and im figuring out what ill do next. data smth **flies away**
+I recently did my bachelor in computer science and im figuring out what ill do next. data smth ok
 
 ---
 <h3 align="left">Connect with me:</h3>
